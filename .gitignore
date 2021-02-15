@@ -2,7 +2,7 @@
 .vs/
 
 # Rider for Unreal files
-./idea/
+.idea/
 
 # Compiled Object files
 *.slo
