@@ -22,6 +22,14 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "DLSS",
+			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
