@@ -33,8 +33,12 @@
 		},
 		{
 			"Name": "Replica",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f0a686b2c60e4130aef801a05efacc6c"
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
