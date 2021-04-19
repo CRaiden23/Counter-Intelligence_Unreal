@@ -90,7 +90,7 @@ bool UTwitchIRCComponent::Authenticate()
 	if(this->TwitchIRCSocket == nullptr || !bSetupComplete)
 		return false;
 
-	bool bOAuth_OK = SendMessage("PASS " + this->OAuth);
+	bool bOAuth_OK = this->OAuth.Contains("oauth:") && SendMessage("PASS " + this->OAuth);
 	bool bNick_OK  = SendMessage("NICK " + this->BotUsername);
 
 	bool bJoin_OK = false;
