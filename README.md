@@ -1,6 +1,6 @@
 
 # Counter-Intelligence
-
+### [Download and play on itch.io](https://hurlcatgames.itch.io/counter-intelligence)
 ## *Objectives*
    - Find how to advance through the levels and infiltrate the evil megacorporation's HQ. Find the server room and destroy it!
  - Stay on your toes though, a mole has decided now is the best time to strike. Roll with the punches and finish your mission!
